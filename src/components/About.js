@@ -7,12 +7,11 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Somos PinCode
-            <br className="hidden lg:inline-block" />Mejoramos tu imagen Digital
+          DESARROLLADOR WEB
+            <br className="hidden lg:inline-block" />CREO LA WEB QUE NECESITAS 
           </h1>
           <p className="mb-8 leading-relaxed">
-            Somos una agencia dedicada a mejorar o contruir la imagen de tu marca en el mundo digital. 
-            Estamos aqui para darle valor y prestigio a tu marca que sea conocida por todos y hacerla crecer hasta donde te lo propongas.
+          Elaboro paginas funcionales con diseños únicos, así le damos valor y prestigio a tu marca, identifico las necesidades de tus clientes y creo soluciones digitales generando experiencias positivas en tus consumidores.
           </p>
           <div className="flex justify-center">
             <a

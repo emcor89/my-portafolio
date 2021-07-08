@@ -36,25 +36,23 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Diseños y Desarrollos informáticos totalmente escalables y dinámicos que podran aumentar o disminuir en función de las futuras necesidades de su empresa o del crecimiento de la misma.",
+    
+    
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Una página Web tiene vida y como tal requiere adaptacion y mejoras constantes. Destacamos servicios web adicionales para que su página Web tenga éxito.",
+    
+    
   },
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "HTML/CSS/JavaScript",
+  "React/ Hooks/ Router",
+  "Node JS /Express JS",
+  "Wordpress /PHP",
+  "Bootstrap / Tailwindcss",
+  "Adobe XD/Photoshop",
 ];
